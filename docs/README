@@ -1,0 +1,25 @@
+# Framework Documentation
+
+This folder contains the structured components of the Mental Health Safety & Support Framework.
+
+These documents represent the primary, refined version of the material — designed to be clear, practical, and usable in real-world, non-clinical settings.
+
+---
+
+## Recommended Reading Order
+
+1. [Core Principles](1_core_principles.md) - foundational concepts  
+2. [Barriers to Help-Seeking](2_barriers_to_help_seeking.md) - why people may not seek support  
+3. [Risk Awareness (Self-Harm, Suicide)](3_suicide_and_self_harm_awareness.md) - recognising high-risk situations  
+4. [Communication & Intervention Strategies](4_interventions_and_communication.md) - practical interaction techniques  
+5. [Boundary Setting for Safe Support](5_boundary_setting.md) - maintaining safe and sustainable support  
+
+---
+
+## Notes
+
+- The content is intentionally structured to reduce cognitive load  
+- Start with Core Principles before moving into applied sections  
+- Each document builds on the previous concepts  
+
+For context, origin, and design approach, refer to the main repository `README.md`.
