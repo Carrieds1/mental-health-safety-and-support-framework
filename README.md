@@ -8,7 +8,7 @@ Designed as a practical framework for supporting people in distress, with a focu
 
 ## Key Idea
 
-People do not need perfect support — they need safe, consistent, human support.
+People do not need perfect support - they need safe, consistent, human support.
 
 ---
 
@@ -25,11 +25,11 @@ People do not need perfect support — they need safe, consistent, human support
 
 This framework is organised into layered components:
 
-1. [Core Principles](docs/1_core_principles.md) — foundational mental models
-2. [Barriers to Help-Seeking](docs/2_barriers_to_help_seeking.md) — why people don’t seek support
-3. [Risk Awareness (Self-Harm, Suicide)](docs/3_suicide_and_self_harm_awareness.md) — recognising high-risk situations
-4. [Communication & Intervention Strategies](docs/4_interventions_and_communication.md) — practical interaction techniques
-5. [Boundary Setting for Safe Support](docs/5_boundary_setting.md) — maintaining safe and sustainable support
+1. [Core Principles](docs/1_core_principles.md) - foundational mental models
+2. [Barriers to Help-Seeking](docs/2_barriers_to_help_seeking.md) - why people don’t seek support
+3. [Risk Awareness (Self-Harm, Suicide)](docs/3_suicide_and_self_harm_awareness.md) - recognising high-risk situations
+4. [Communication & Intervention Strategies](docs/4_interventions_and_communication.md) - practical interaction techniques
+5. [Boundary Setting for Safe Support](docs/5_boundary_setting.md) - maintaining safe and sustainable support
 
 ---
 
