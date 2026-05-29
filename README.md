@@ -107,8 +107,8 @@ Slides are included for reference and transparency of development.
 
 This framework is part of a broader set of projects exploring safety and risk across both human and technical systems:
 
-- [Clinical IV Dosing Calculator](https://github.com/carrieds1/clinical-iv-dosing-calculator) - reducing calculation error and cognitive load in clinical workflows  
-- [Threat Modelling Framework](https://github.com/Carrieds1/socio-technical-threat-modelling-healthcare) - structuring risk identification and prioritisation in technical systems  
+- [Clinical IV Dosing Calculator](https://github.com/carrieds1/clinical-iv-dosing-calculator) - reducing risk in clinical workflows by mitigating calculation error and cognitive load using structured validation
+- [Threat Modelling Framework](https://github.com/Carrieds1/socio-technical-threat-modelling-healthcare) - applying structured, risk-aware thinking to reason about and prioritise actual and potential threats in technical syste
 
 Together, these projects reflect an approach that considers both technical controls and human behaviour in safety-critical environments.
 
