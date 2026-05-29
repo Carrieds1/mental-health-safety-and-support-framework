@@ -101,3 +101,14 @@ The Markdown documents in this repository represent a refined version of the con
 For structured, simplified, and practical versions of this content, see the `docs/` folder.
 
 Slides are included for reference and transparency of development.
+
+
+## Related Work
+
+This framework is part of a broader set of projects exploring safety and risk across both human and technical systems:
+
+- [Clinical IV Dosing Calculator](https://github.com/carrieds1/clinical-iv-dosing-calculator) - reducing calculation error and cognitive load in clinical workflows  
+- [Threat Modelling Framework](https://github.com/Carrieds1/socio-technical-threat-modelling-healthcare) - structuring risk identification and prioritisation in technical systems  
+
+Together, these projects reflect an approach that considers both technical controls and human behaviour in safety-critical environments.
+
